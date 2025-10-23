@@ -1,0 +1,4 @@
+opencv-python
+Pillow
+PyMuPDF==1.24.9
+numpy
